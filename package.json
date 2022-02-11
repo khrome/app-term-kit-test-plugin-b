@@ -1,0 +1,9 @@
+{
+  "name": "app-term-kit-test-plugin-b",
+  "version": "0.0.1",
+  "main": "app-term-kit-test-plugin-b.js",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.0"
+  }
+}
